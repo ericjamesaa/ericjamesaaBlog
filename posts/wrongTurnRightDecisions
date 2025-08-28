@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Wrong Turn, Right Decision</title>
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <!-- Navbar -->
+  <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+    <div class="container">
+      <a class="navbar-brand" href="index.html">The Eric Chronicles</a>
+    </div>
+  </nav>
+
+  <!-- Post Content -->
+  <div class="container my-5">
+    <h2>Wrong Turn, Right Decision</h2>
+    <p class="text-muted">by Eric James Abarro</p>
+    <p class="text-muted">August 29, 2025</p>
+    <p>
+        As I approach the age of 30, I still carry the mindset of my 16-year-old self—confused, impulsive, and distracted. 
+        I’ve made decisions without thinking them through, and at one point, I thought my career had reached a dead end.
+    </p>
+    <p>
+        Leaving the company where I worked for eight years was a roller-coaster experience. 
+        For a time, I thought I could never escape the chains of agony, anxiety, and frustration. 
+        Don’t get me wrong—I am grateful for joining another organization after so long. 
+        They allowed me to earn an amount I once thought was impossible back in my first company. 
+        But the role wasn’t my cup of tea, and I could no longer stand being in a position that left me drained, demotivated, and devalued. 
+        My academic performance in graduate school also suffered—I dropped two classes, received an incomplete, and even now, I haven’t managed to finish it.
+    </p>
+    <a href="index.html" class="btn btn-secondary mt-3">⬅ Back to Home</a>
+  </div>
+</body>
+</html>
